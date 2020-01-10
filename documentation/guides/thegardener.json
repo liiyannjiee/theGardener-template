@@ -1,0 +1,20 @@
+{
+  "directory" :
+  {
+    "label": "theGuides",
+    "description": "How do we interact with theGardener ?",
+    "pages": [
+      "roles",
+      "run",
+      "install",
+      "configure",
+      "operate",
+      "write",
+      "read",
+      "contribute"
+    ],
+    "children" :[
+
+    ]
+  }
+}
