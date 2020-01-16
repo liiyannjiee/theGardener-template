@@ -1,0 +1,17 @@
+{
+  "directory" :
+  {
+    "label": "SnowCamp",
+    "description": "SnowCamp",
+    "pages": [
+      "SnowCamp2020",
+      "TheGardener",
+      "Conclusion",
+      "Questions",
+      "Merci"
+
+    ],
+    "children" :[
+    ]
+  }
+}
