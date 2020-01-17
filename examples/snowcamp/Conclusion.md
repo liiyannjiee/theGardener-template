@@ -16,7 +16,7 @@ Pour répondre à une question sur un projet on doit :
 - S'adresser à une personne en particulier
 - Fouiller dans ses mails
 - Redessinner toujours les mêmes choses au tableau blanc
-- Avoir de la documentation que vous savez qu'elle n'est pas à jour
+- Avoir de la documentation dont vous savez qu'elle est obsolète
 
 
 ### Pour avoir une documentation fiable 

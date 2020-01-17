@@ -8,7 +8,7 @@
 }
 ```
 
-
+Venez nous voir à notre stand...
 
 ![](assets/kkg.png)
 
