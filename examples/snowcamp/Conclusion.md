@@ -15,6 +15,8 @@ Pour répondre à une question sur un projet on doit :
 - Faire du reverse engineering
 - S'adresser à une personne en particulier
 - Fouiller dans ses mails
+- Redessinner toujours les mêmes choses au tableau blanc
+- Avoir de la documentation que vous savez qu'elle n'est pas à jour
 
 
 ### Pour avoir une documentation fiable 
@@ -23,7 +25,7 @@ Pour répondre à une question sur un projet on doit :
 
 - Avoir une documentation qui a le même cycle de vie que la source du projet
 
-- Guider le developpeur en répondant aux questions
+- Guider le développeur en répondant aux questions
 
    - Qui ?
    - Quand ?
