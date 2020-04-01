@@ -1,9 +1,8 @@
 ```thegardener
 {
-  "page" :
+  "scenarios" : 
      {
-        "label": "Read documentation",
-        "description": "How to read documentation provided by theGardener ?"
+        "feature": "/test/features/administration/operation.feature"
      }
 }
 ```
